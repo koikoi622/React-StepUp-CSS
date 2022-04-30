@@ -1,2 +1,2 @@
-# React-StepUp-CSS
+# React-StepUp
 Created with CodeSandbox
